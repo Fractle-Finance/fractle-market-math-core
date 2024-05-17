@@ -1,0 +1,22 @@
+{
+  "name": "fractle-market-math-core",
+  "version": "1.0.0",
+  "description": "fractle market math core",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fractle-Finance/fractle-market-math-core.git"
+  },
+  "author": "fractle",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fractle-Finance/fractle-market-math-core/issues"
+  },
+  "homepage": "https://github.com/Fractle-Finance/fractle-market-math-core#readme",
+  "dependencies": {
+    "bignumber.js": "^9.1.2"
+  }
+}
