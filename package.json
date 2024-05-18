@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Fractle-Finance/fractle-market-math-core#readme",
   "dependencies": {
-    "bignumber.js": "^9.1.2"
+    "bignumber.js": "^9.1.2",
+    "ethers": "5.7.1"
   }
 }
